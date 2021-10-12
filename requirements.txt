@@ -22,7 +22,7 @@ mkl-fft==1.0.10
 mkl-random==1.0.2
 numpy==1.16.2
 olefile==0.46
-opencv-python==4.0.0.21
+opencv-python==4.2.0.32
 pandas==0.24.1
 parso==0.3.2
 pexpect==4.6.0
